@@ -36,6 +36,17 @@ what is block 1's number? 3
 YOU'RE WRONG!
 ```
 
+### 구성
+```
+cuteTrashcan/
+└── old-projects/
+    └── DaVinciCode/
+        ├── davinci.c          # 고3 시절 작성한 C 코드
+        └── davinci_plan.pdf   # 당시 손글씨 계획서
+```
+
+- [davinci_plan.pdf](old-projects/DaVinciCode/davinci_plan.pdf): 당시 손글씨 계획서(악필 주의)
+
 ### 비하인드
 
 수능 끝난 고3 때 C언어 기본서 읽으면서 독학한 뒤에 신나서 썼던걸로 기억한다. <br>
