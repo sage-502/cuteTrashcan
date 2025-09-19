@@ -45,7 +45,7 @@ cuteTrashcan/
         └── davinci_plan.pdf   # 당시 손글씨 계획서
 ```
 
-- [davinci_plan.pdf](/davinci_plan.pdf): 당시 손글씨 계획서(악필 주의)
+- [davinci_plan.pdf](/old-projects/DaVinciCode/davinci_plan.pdf): 당시 손글씨 계획서(악필 주의)
 
 ### 비하인드
 
