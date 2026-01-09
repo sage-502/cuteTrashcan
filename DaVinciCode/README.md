@@ -45,7 +45,7 @@ cuteTrashcan/
         └── davinci_plan.pdf   # 당시 손글씨 계획서
 ```
 
-- [davinci_plan.pdf](/old-projects/DaVinciCode/davinci_plan.pdf): 당시 손글씨 계획서. 기능, 구현 메모, 플로우 차트 비슷한 그림이 있다. (악필 주의)
+- [davinci_plan.pdf](/DaVinciCode/davinci-plan.pdf): 당시 손글씨 계획서. 기능, 구현 메모, 플로우 차트 비슷한 그림이 있다. (악필 주의)
 
 ### 비하인드
 
